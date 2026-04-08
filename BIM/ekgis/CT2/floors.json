@@ -1,0 +1,5 @@
+[
+  { "id": "CT200", "name": "Sàn tầng 1", "level": 0, "glb": "CT2SanTang1.glb" },
+  { "id": "CT201", "name": "Tầng 1", "level": 1, "glb": "CT2TANG1.glb" },
+  { "id": "CT202", "name": "Sàn tầng 2", "level": 2, "glb": "CT2SanTang2.glb" }
+]

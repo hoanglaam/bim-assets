@@ -1,8 +1,0 @@
-[
-  { "id": "F00", "name": "Tầng 1", "level": 0, "glb": "tang1_full.glb" },
-  { "id": "F01", "name": "Tầng 2", "level": 1, "glb": "tang2_full.glb" },
-  { "id": "F02", "name": "Kết cấu tầng 1", "level": 0, "glb": "ketcau_tang1.glb" },
-  { "id": "F03", "name": "Kết cấu tầng 2", "level": 1, "glb": "ketcau_tang2.glb" },
-  { "id": "F04", "name": "Sàn tầng 1", "level": 2, "glb": "san_tang1.glb" },
-  { "id": "F05", "name": "Sàn tầng 2", "level": 3, "glb": "san_tang2.glb" }
-]
